@@ -1,4 +1,4 @@
-![DataMethodsLab_Logo](https://github.com/cercmigration/images/Data-and-Methods-Lab2_TEXT.jpg "Data-and-Methods-lab")
+![DataMethodsLab_Logo](images/Data-and-Methods-Lab2_TEXT.jpg "Data-and-Methods-lab")
 
 <!--https://github.com/cercmigration/cercmigration/blob/b7560c7c06d0dba1fca862ae5ec82df8173da53a/images/Data-and-Methods-Lab2_TEXT.jpg--> 
 <!--
